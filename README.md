@@ -8,7 +8,7 @@ A navigation app for large buildings, such as universities, enabling fast and ac
 - Authentication system allowing room owners to grant access with user confirmation
 
 ## **Technology Stack**
-- ESP32 + DW1000 modules
+- ESP32 + DW1000 modules implement from Makerfabs ESP32 UWB
 - Wi-Fi WebSocket & BLE GATT
 - Android Studio
 
