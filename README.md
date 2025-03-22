@@ -15,3 +15,5 @@ A navigation app for large buildings, such as universities, enabling fast and ac
 ## **Testing Phase**
 - Initial test site: 5th floor, 30th Anniversary Building, Faculty of Engineering
 - Limited testing in 3 rooms before expanding further
+
+![First draft System Architecture Diagram](picture/System%20Architecture%20Diagram.jpg)
