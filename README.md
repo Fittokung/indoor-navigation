@@ -11,3 +11,7 @@ A navigation app for large buildings, such as universities, enabling fast and ac
 - ESP32 + DW1000 modules
 - Wi-Fi WebSocket & BLE GATT
 - Android Studio
+
+## **Testing Phase**
+- Initial test site: 5th floor, 30th Anniversary Building, Faculty of Engineering
+- Limited testing in 3 rooms before expanding further
